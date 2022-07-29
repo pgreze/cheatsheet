@@ -1,6 +1,6 @@
 ```bash
 # List all virtual machines
-VBoxManage list vms
+VBoxManage list vms ok
 
 # List all running virtual machines
 VBoxManage list runningvms
